@@ -2,4 +2,4 @@
 raywenderlinch tutorial
 
 
-![Alt text](/image/mainscreen.PNG?raw=true "Optional Title")
+![Alt text](/image/mainscreen.png?raw=true "Optional Title")
