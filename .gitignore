@@ -1,4 +1,5 @@
 ## Various settings
 
 *.xcworkspace
+*.xcuserstate
 xcuserdata/
